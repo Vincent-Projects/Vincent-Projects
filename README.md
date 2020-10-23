@@ -30,18 +30,16 @@ I usually make things on [Codepen](https://codepen.io/crysyrood) before integrat
 
 #### Follow me here
 
-[Twitter](https://twitter.com/home)
-[Linkedin](https://www.linkedin.com/in/vincent-rouilhac-380b501b9/)
-<a href="www.vincentrouilhac.com">My Websit</a>
+<a href="www.vincentrouilhac.com">My Websit</a>\
 <a href="https://twitter.com/home">
 <img src="https://github.com/Vincent-Projects/Vincent-Projects/blob/main/assets/icons/twitter-brands.svg" width="30" height="30"> Twitter
-</a>
+</a>\
 <a href="https://www.linkedin.com/in/vincent-rouilhac-380b501b9/">
 <img src="https://github.com/Vincent-Projects/Vincent-Projects/blob/main/assets/icons/linkedin-in-brands.svg" width="30" height="30"> Linkedin
-</a>
+</a>\
 <a href="https://codepen.io/crysyrood">
 <img src="https://github.com/Vincent-Projects/Vincent-Projects/blob/main/assets/icons/codepen-brands.svg" width="30" height="30"> Codepen
-</a>
+</a>\
 
 <!--
 **Vincent-Projects/Vincent-Projects** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
