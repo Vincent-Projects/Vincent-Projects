@@ -30,11 +30,16 @@ I usually make things on [Codepen](https://codepen.io/crysyrood) before integrat
 
 #### Follow me here
 
-[My Website](www.vincentrouilhac.com)
 [Twitter](https://twitter.com/home)
 [Linkedin](https://www.linkedin.com/in/vincent-rouilhac-380b501b9/)
-[![Codepen](https://github.com/Vincent-Projects/Vincent-Projects/blob/main/assets/icons/codepen-brands.svg?s=50) Codepen](https://codepen.io/crysyrood)
-<a href="">
+<a href="www.vincentrouilhac.com">My Websit</a>
+<a href="https://twitter.com/home">
+<img src="https://github.com/Vincent-Projects/Vincent-Projects/blob/main/assets/icons/twitter-brands.svg" width="30" height="30"> Twitter
+</a>
+<a href="https://www.linkedin.com/in/vincent-rouilhac-380b501b9/">
+<img src="https://github.com/Vincent-Projects/Vincent-Projects/blob/main/assets/icons/linkedin-in-brands.svg" width="30" height="30"> Linkedin
+</a>
+<a href="https://codepen.io/crysyrood">
 <img src="https://github.com/Vincent-Projects/Vincent-Projects/blob/main/assets/icons/codepen-brands.svg" width="30" height="30"> Codepen
 </a>
 
