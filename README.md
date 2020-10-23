@@ -12,15 +12,15 @@ I'm a student in web development and computer science. Passionate about code, i'
 
 #### :hammer_and_wrench: Here is the tech i use
 
--   <img class="text-blue" src="https://github.com/Vincent-Projects/Vincent-Projects/blob/main/assets/icons/html5-brands.svg" width="25" height="25"> / <img src="https://github.com/Vincent-Projects/Vincent-Projects/blob/main/assets/icons/css3-alt-brands.svg" width="25" height="25"> / <img src="https://github.com/Vincent-Projects/Vincent-Projects/blob/main/assets/icons/js-brands.svg" width="25" height="25">
+-   <img src="https://github.com/Vincent-Projects/Vincent-Projects/blob/main/assets/icons/html5-brands.svg" width="25" height="25"> / <img src="https://github.com/Vincent-Projects/Vincent-Projects/blob/main/assets/icons/css3-alt-brands.svg" width="25" height="25"> / <img src="https://github.com/Vincent-Projects/Vincent-Projects/blob/main/assets/icons/js-brands.svg" width="25" height="25">
 -   <img src="https://github.com/Vincent-Projects/Vincent-Projects/blob/main/assets/icons/node-brands.svg" width="25" height="25"> / Express
--   MongoDB
+-   <img src="https://github.com/Vincent-Projects/Vincent-Projects/blob/main/assets/icons/database-solid.svg" width="25" height="25"> MongoDB
 
 #### :brain: I'm currently learning
 
 -   C++
--   ReactHTML
--   PostgreSQL
+-   <img src="https://github.com/Vincent-Projects/Vincent-Projects/blob/main/assets/icons/react-brands.svg" width="25" height="25">
+-   <img src="https://github.com/Vincent-Projects/Vincent-Projects/blob/main/assets/icons/database-solid.svg" width="25" height="25"> PostgreSQL
 
 ---
 
