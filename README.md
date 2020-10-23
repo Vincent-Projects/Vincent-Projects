@@ -33,7 +33,7 @@ I usually make things on [Codepen](https://codepen.io/crysyrood) before integrat
 [My Website](www.vincentrouilhac.com)
 [Twitter](https://twitter.com/home)
 [Linkedin](https://www.linkedin.com/in/vincent-rouilhac-380b501b9/)
-[[![Codepen](https://github.com/Vincent-Projects/Vincent-Projects/tree/main/assets/icons/codepen-brands.svg)Codepen](https://codepen.io/crysyrood)
+[![Codepen](https://github.com/Vincent-Projects/Vincent-Projects/blob/main/assets/icons/codepen-brands.svg) Codepen](https://codepen.io/crysyrood)
 
 <!--
 **Vincent-Projects/Vincent-Projects** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
