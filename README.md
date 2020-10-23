@@ -35,7 +35,7 @@ I usually make things on [Codepen](https://codepen.io/crysyrood) before integrat
 [Linkedin](https://www.linkedin.com/in/vincent-rouilhac-380b501b9/)
 [![Codepen](https://github.com/Vincent-Projects/Vincent-Projects/blob/main/assets/icons/codepen-brands.svg?s=50) Codepen](https://codepen.io/crysyrood)
 <a href="">
-<img src="https://cloud.githubusercontent.com/assets/yourgif.gif" width="400" height="790"> Codepen
+<img src="https://github.com/Vincent-Projects/Vincent-Projects/blob/main/assets/icons/codepen-brands.svg" width="30" height="30"> Codepen
 </a>
 
 <!--
