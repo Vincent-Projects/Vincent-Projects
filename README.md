@@ -30,7 +30,7 @@ I usually make things on [Codepen](https://codepen.io/crysyrood) before integrat
 
 #### Follow me here
 
-<a href="www.vincentrouilhac.com">My Website</a>\
+<a href="http://www.vincentrouilhac.com">My Website</a>\
 <a href="https://twitter.com/home">
 <img src="https://github.com/Vincent-Projects/Vincent-Projects/blob/main/assets/icons/twitter-brands.svg" width="25" height="25"> Twitter
 </a>\
