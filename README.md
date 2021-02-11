@@ -1,57 +1,36 @@
-<!--[![Vincent's Header](https://github.com/Vincent-Projects/Vincent-Projects/blob/main/assets/<BANNER.PNG>)](wwww.vincentrouilhac.com)
-// TODO : make a banner with PS
--->
-
-## Hi, I'm Vincent Rouilhac :slightly_smiling_face:
+## :fr: Hi, I'm Vincent Rouilhac :uk:
 
 > "The better we get at getting better, the faster we will get better." - Douglas Engelbart
 
-I'm a student in web development and computer science. Passionate about code, i'm learning in order to build products that could increase productivity, learning and that can solve problem.
+I'm a Backend Hobbyist, Javascript Lover, Learner & Innovator Spirit. I'm learning tech to create products to increase productivity and everyday life. Passionate about tech, code is a great tool to bring ideas into life.
 
 ---
 
-#### :hammer_and_wrench: Here is the tech i use
+### :muscle: The tech I use
 
--   <img src="https://github.com/Vincent-Projects/Vincent-Projects/blob/main/assets/icons/html5-brands.svg" width="25" height="25"> / <img src="https://github.com/Vincent-Projects/Vincent-Projects/blob/main/assets/icons/css3-alt-brands.svg" width="25" height="25"> / <img src="https://github.com/Vincent-Projects/Vincent-Projects/blob/main/assets/icons/js-brands.svg" width="25" height="25">
--   <img src="https://github.com/Vincent-Projects/Vincent-Projects/blob/main/assets/icons/node-brands.svg" width="25" height="25"> / Express
--   <img src="https://github.com/Vincent-Projects/Vincent-Projects/blob/main/assets/icons/database-solid.svg" width="25" height="25"> MongoDB
+- :green_heart: HTML5, CSS3, Javascript, Ecmascript2015+
+- :purple_heart: Nodejs, Expressjs
+- :blue_heart: MongoDB, Mongoose
+- :star2: REST API, JWT, CRUD
 
-#### :brain: I'm currently learning
+### :hourglass: What i'm Learning
 
--   C++
--   <img src="https://github.com/Vincent-Projects/Vincent-Projects/blob/main/assets/icons/react-brands.svg" width="25" height="25">
--   <img src="https://github.com/Vincent-Projects/Vincent-Projects/blob/main/assets/icons/database-solid.svg" width="25" height="25"> PostgreSQL
+- :smiling_imp: C++
+- :speech_balloon: SQL & PostgreSQL
+- :closed_lock_with_key: Security ( CSRF, Injection, XSS, OWASP Security Risks ) 
+- :grey_question: Testing ( Mocha, Chai )
 
----
+### :smirk: Fun fact
 
-I usually make things on [Codepen](https://codepen.io/crysyrood) before integrating them in my projects or just for trying new things.
+- :books: I love books
+- :flushed: My teddy bear's name is Tony in reference to Tony Stark
 
 ---
 
 #### Follow me here
 
-<a href="http://www.vincentrouilhac.com">My Website</a>\
-<a href="https://twitter.com/home">
-<img src="https://github.com/Vincent-Projects/Vincent-Projects/blob/main/assets/icons/twitter-brands.svg" width="25" height="25"> Twitter
-</a>\
-<a href="https://www.linkedin.com/in/vincent-rouilhac-380b501b9/">
-<img src="https://github.com/Vincent-Projects/Vincent-Projects/blob/main/assets/icons/linkedin-in-brands.svg" width="25" height="25"> Linkedin
-</a>\
-<a href="https://codepen.io/crysyrood">
-<img src="https://github.com/Vincent-Projects/Vincent-Projects/blob/main/assets/icons/codepen-brands.svg" width="25" height="25"> Codepen
-</a>
-
-<!--
-**Vincent-Projects/Vincent-Projects** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- :computer: [My Website](http://www.vincentrouilhac.com)
+- :bird: [Twitter](https://twitter.com/Crys_Dev)
+- :camera: [Instagram](https://www.instagram.com/crys_dev/)
+- :bust_in_silhouette: [Linkedin](https://www.linkedin.com/in/vincent-rouilhac-380b501b9/)
+- :pencil2: [Codepen](https://codepen.io/crysyrood)
