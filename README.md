@@ -1,11 +1,11 @@
-[![Header banner](https://github.com/Vincent-Projects/Vincent-Projects/blob/assets/banners/banner_vincent.png)](https://www.vincentrouilhac.com)
+[![Header banner](https://github.com/Vincent-Projects/Vincent-Projects/blob/main/assets/banners/banner_vincent.png)](https://www.vincentrouilhac.com)
 
 <p align="center">
-    <a href="https://twitter.com/Crys_Dev"><img height="35" src="https://github.com/Vincent-Projects/Vincent-Projects/blob/assets/icons/twitter-brands.svg" /></a>
-    <a href="https://www.linkedin.com/in/vincent-rouilhac-380b501b9"><img height="35" src="https://github.com/Vincent-Projects/Vincent-Projects/blob/assets/icons/linkedin-in-brands.svg" /></a>
-    <a href="https://www.vincentrouilhac.com"><img height="35" src="https://github.com/Vincent-Projects/Vincent-Projects/blob/assets/icons/globe-solid.svg" /></a>
-    <a href="https://www.instagram.com/vincent.backend"><img height="35" src="https://github.com/Vincent-Projects/Vincent-Projects/blob/assets/icons/instagram-brands.svg" /></a>
-    <a href="https://codepen.io/crysyrood"><img height="35" src="https://github.com/Vincent-Projects/Vincent-Projects/blob/assets/icons/codepen-brands.svg" /></a>
+    <a href="https://twitter.com/Crys_Dev"><img height="35" src="https://github.com/Vincent-Projects/Vincent-Projects/blob/main/assets/icons/twitter-brands.svg" /></a>
+    <a href="https://www.linkedin.com/in/vincent-rouilhac-380b501b9"><img height="35" src="https://github.com/Vincent-Projects/Vincent-Projects/blob/main/assets/icons/linkedin-in-brands.svg" /></a>
+    <a href="https://www.vincentrouilhac.com"><img height="35" src="https://github.com/Vincent-Projects/Vincent-Projects/blob/main/assets/icons/globe-solid.svg" /></a>
+    <a href="https://www.instagram.com/vincent.backend"><img height="35" src="https://github.com/Vincent-Projects/Vincent-Projects/blob/main/assets/icons/instagram-brands.svg" /></a>
+    <a href="https://codepen.io/crysyrood"><img height="35" src="https://github.com/Vincent-Projects/Vincent-Projects/blob/main/assets/icons/codepen-brands.svg" /></a>
 </p>
 
 ## :fr: Hi, I'm Vincent Rouilhac :uk:
